@@ -31,23 +31,23 @@ This project analyzes retail sales data to uncover key business insights related
 
 ### 1. Sales by Category
 - Technology generates the highest sales.
-![Sales by Category](Visuals/sales_by_category.png)
+![Sales by Category](visuals/sales_by_category.png)
 
 ### 2. Sales by Region
 - West region performs the best.
-![Sales by Region](Visuals/sales_by_region.png)
+![Sales by Region](visuals/sales_by_region.png)
 
 ### 3. Customer Segment
 - Consumer segment contributes the most revenue.
-![Sales by Segment](Visuals/sales_by_segment.png)
+![Sales by Segment](visuals/sales_by_segment.png)
 
 ### 4. Sales Trend
 - Sales show a fluctuating trend with peaks between September and December.
-![Sales by month](Visuals/sales_by_month.png)
+![Sales by month](visuals/sales_by_month.png)
 
 ### 5. Top Products
 - Top products contribute significantly to overall revenue.
-![Top 10 Products](Visuals/top10_products.png)
+![Top 10 Products](visuals/top10_products.png)
 
 ---
 
