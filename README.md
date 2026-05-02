@@ -74,5 +74,7 @@ retail-sales-analysis/
 ├── notebooks/
 ├── visuals/
 ├── README.md
+├── model.pkl
+├── app.py
 └── requirements.txt
 ```
