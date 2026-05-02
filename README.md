@@ -67,6 +67,7 @@ This project analyzes retail sales data to uncover key business insights related
 ---
 
 ## 📁 Project Structure
+```
 retail-sales-analysis/
 │
 ├── data/
@@ -74,4 +75,4 @@ retail-sales-analysis/
 ├── visuals/
 ├── README.md
 └── requirements.txt
-
+```
