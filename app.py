@@ -6,7 +6,7 @@ import pandas as pd
 import joblib
 
 
-
+# These variables are coming from data_store.py file which we made basically to get the requried datas for our app
 from data_store import category_lst, region_lst, segment_lst, shipmode_lst
 from data_store import category_dict
 
